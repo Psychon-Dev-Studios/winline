@@ -1,0 +1,7 @@
+man 1.0.2, added in WinLine 1.0.0
+
+Command: man
+Usage: man [command]
+Example: man man
+
+man [command] shows more detailed help about any command, including limitations, bugs, aliases, and parameters.
