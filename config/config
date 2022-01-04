@@ -1,0 +1,4 @@
+[Default configuration]
+keyboardInturruptEnabled: false
+cmdLink: disabled
+advancedMode: disabled
